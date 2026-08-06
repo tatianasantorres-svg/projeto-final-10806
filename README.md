@@ -1,23 +1,24 @@
-# Projeto Final de Avaliação — UFCD 10806
+#  Projeto Final de Avaliação — UFCD 10806
 
-Este repositório contém o **Projeto Final** desenvolvido para a conclusão e avaliação da Unidade de Formação de Curta Duração **UFCD 10806**, inserida no curso de Gestão de Informação e Ciência de Dados.
+Este repositório contém o **Projeto Final** desenvolvido para a conclusão e avaliação da Unidade de Formação de Curta Duração **UFCD 10806 – Linguagens de Scripting e Linha de Comandos**, inserida no curso de Gestão de Informação e Ciência de Dados.
 
-Ao contrário dos exercícios diários, este projeto consistiu em pegar num cenário ou problema mais robusto e construir uma solução autónoma do início ao fim, aplicando os conhecimentos consolidados ao longo do módulo.
-
----
-
-## Ferramentas e Tecnologias
-* **Linguagem Principal:** Python 
-* **Foco Técnico:** Modularização de código, tratamento de exceções/erros e estruturação de lógica aplicada a um problema concreto.
+O projeto consistiu no desenvolvimento de uma solução de scripting mais robusta e estruturada, aplicando os conceitos de automação, validação e execução acumulados ao longo do módulo.
 
 ---
 
-## Competências Evidenciadas
-* **Resolução de Problemas:** Capacidade de transformar um enunciado de avaliação complexo numa aplicação funcional.
-* **Autonomia:** Desenvolvimento completo da arquitetura do script, validação de dados de entrada e garantia de resultados corretos.
-* **Pensamento Analítico:** Estruturação lógica orientada à automação e eficiência do código.
+##  Ferramentas e Tecnologias
+* **Linguagem Principal:** Windows PowerShell
+* **IDE/Editor:** Visual Studio (VS Code)
+* **Foco Técnico:** Criação de funções reutilizáveis, tratamento de erros e automação estruturada de tarefas repetitivas através do terminal.
 
 ---
 
-## Conclusão
-Este projeto marca a conclusão com sucesso do módulo de formação, servindo como uma das bases técnicas fundamentais para o desenvolvimento de soluções mais avançadas em Ciência e Análise de Dados.
+##  Competências Evidenciadas
+* **Resolução de Problemas Práticos:** Capacidade de transformar requisitos de administração ou fluxos de dados numa ferramenta funcional via linha de comandos.
+* **Autonomia em Engenharia de Sistemas:** Configuração completa do ambiente no Visual Studio, escrita de lógica fluida e testes de execução de scripts.
+* **Pensamento Estruturado:** Organização de código focada em performance, segurança e reutilização para processos de automação.
+
+---
+
+## 🏁 Conclusão
+Este projeto valida as competências adquiridas na gestão de fluxos de trabalho por linha de comandos, uma base essencial para a automação de pipelines de dados e administração técnica em qualquer infraestrutura digital.
