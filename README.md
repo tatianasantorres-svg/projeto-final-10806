@@ -8,7 +8,6 @@ Ao contrário dos exercícios diários, este projeto consistiu em pegar num cen�
 
 ## Ferramentas e Tecnologias
 * **Linguagem Principal:** Python 
-* **Bibliotecas Utilizadas:** [Insira aqui se usou alguma, ex: Pandas, NumPy, ou apenas estruturas nativas]
 * **Foco Técnico:** Modularização de código, tratamento de exceções/erros e estruturação de lógica aplicada a um problema concreto.
 
 ---
